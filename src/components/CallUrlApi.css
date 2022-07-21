@@ -1,0 +1,15 @@
+.actions {
+  align-self: flex-end;
+}
+
+.actions button {
+  cursor: pointer;
+  padding: 1rem 2rem;
+  border: 1px solid orange;
+  background-color: rgb(252, 207, 125);
+  color: black;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  align-self: flex-end;
+  height: 49px;
+}
